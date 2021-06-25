@@ -7,7 +7,7 @@ import difflib
 import requests
 import validators
 
-TOKEN = "Mzg4NDMwMTQ0MTIyOTEyNzY5.Wimnww.QEBudZ8ZOFWbkS2AaeZSPotd-nM"
+TOKEN = ""
 client = discord.Client()
 
 #<pokemon_name>: [canBeTraded, shinyAvailable, thumbnailName]
